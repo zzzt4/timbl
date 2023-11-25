@@ -1,0 +1,29 @@
+body{
+    background: white;
+    border-style: double dotted;
+    border-radius: 10px;
+    border-width: 10px;
+  }
+  h1{
+    color: #702963;
+  }
+  h3{
+    color: #330066;
+  }
+  h4{
+    color: #4b0082
+  }
+  span{
+    padding-left: 90px;
+    padding-right: 90px;
+    color: #663046;
+    font-family: cursive;
+  }
+  img{
+    height: 200px;
+    width: 250px;
+    border-color: #311b92;
+    border-style: double;
+    border-radius: 70px;
+    border-width: 4px;
+  }
